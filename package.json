@@ -1,0 +1,22 @@
+{
+  "name": "com.skillitronic.leoecscommon",
+  "displayName": "LeoECS Lite Common",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "Skillitronic",
+    "common",
+    "LeoEcs",
+    "utility"
+  ],
+  "dependencies": {
+    "com.leopotam.ecslite": "2023.3.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
