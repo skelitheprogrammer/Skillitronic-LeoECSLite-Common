@@ -12,5 +12,5 @@ https://github.com/skelitheprogrammer/Skillitronic-LeoECSLite-Common.git
 ```
 или прямое редактирование `Packages/manifest.json`:
 ```
-"com.skillitronic.leoecsentitydescriptors": "https://github.com/skelitheprogrammer/Skillitronic-LeoECSLite-Common.git",
+"com.skillitronic.leoecscommon": "https://github.com/skelitheprogrammer/Skillitronic-LeoECSLite-Common.git",
 ```
